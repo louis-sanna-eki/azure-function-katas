@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+			"name": "azure-function-katas",
 			"path": "."
 		}
 	]

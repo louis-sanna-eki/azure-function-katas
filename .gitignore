@@ -128,6 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# terraform 
+# terraform
 .env
 terraform/.terraform/providers/
+
+# Azure function
+funcApp/local.settings.json
